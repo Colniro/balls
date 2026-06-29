@@ -367,3 +367,30 @@ Asset Pipeline Refresh (id=7025524e4690efb41b1e6917efe5bebb): Total: 0.041 secon
 Starting new worker id: 1 with log in C:/Users/sergi/Documents/GitHub/balls/Logs/AssetImportWorkerHW1.log
 [Worker0] Imported GUID: 807d6cc35cf589548951b635903bc5a0 - Path: Assets/Scenes/Scenes.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '7cc65c9b987504c49df5e9f038fe29f0') in 0.0913644 seconds
 Worker ready: AssetImportWorkerHW1 1
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "EplCUbj8"... (expires: 2026-06-29T18:40:27Z)
+Asset Pipeline Refresh (id=6d5ece2638a133447966846692b46b04): Total: 0.015 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+MonoPathRemapper: Attempts to remap: 4106; Successful remaps: 438
+Serialized file version minimum: 23, current 23
+[LAYOUT] About to save layout C:\Users\sergi\Documents\GitHub\balls\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/sergi/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+[Licensing::IpcConnector] LicenseClient-sergi-6000.5.1-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-sergi-6000.5.1 channel disconnected successfully.
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+Shut down.
+abort_threads: Failed aborting id: 0000000000001A0C, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 0000000000001A0C, mono_thread_manage will ignore it
+
+debugger-agent: Unable to listen on 4012
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1782751262547,"processId":36148,"allocatedMemory":46893882,"memoryLabels":[{"Default":174579},{"Permanent":15516},{"NewDelete":68709},{"Thread":4208248},{"Manager":36168},{"VertexData":8},{"Geometry":816},{"Texture":24},{"Shader":848587},{"Material":24},{"GfxDevice":66440},{"GfxThread":9216},{"Animation":952},{"Audio":1256},{"FreeType":8},{"FontEngine":736},{"Physics":2146},{"Physics2D":16},{"Serialization":192104},{"Input":42840},{"JobScheduler":256},{"TextLib":29526},{"Mono":48},{"ScriptingNativeRuntime":674964},{"BaseObject":1676009},{"Resource":1208},{"Renderer":3080},{"Transform":4685},{"File":6970},{"WebCam":616},{"Culling":32},{"Terrain":11442},{"Wind":24},{"STL":40},{"String":9603},{"StaticString":3808},{"Utility":2674797},{"Curl":48},{"PoolAlloc":2168},{"AI":80},{"TypeTree":8869},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7816},{"Director":8296},{"CloudService":7096},{"WebRequest":10463},{"VR":47114},{"SceneManager":608},{"Video":208},{"LazyScriptCache":32},{"NativeArray":33045216},{"Camera":1497},{"Secure":265},{"SerializationCache":1576},{"APIUpdating":10320},{"Subsystems":336},{"VirtualTexturing":57888},{"StaticSafetyDebugInfo":278528},{"Analytics":552},{"Hierarchy":1176},{"UIElements":1545848},{"CoreStats":13688},{"Identifiers":13536},{"Gui":267574},{"EditorUtility":249784},{"VersionControl":8},{"Undo":931},{"AssetDatabase":494352},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":35345},{"Upm":1988},{"UpmDiagnostics":8},{"AssetCompliance":64},{"DrivenProperties":72},{"LocalIPC":211},{"ProfilerEditor":9746},{"CoreBusinessMetrics":2892},{"Windowing":456},{"Licensing":664},{"AssetReference":32},{"IPCStream":32}]}
